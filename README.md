@@ -35,7 +35,7 @@ There are several items players must acquire to progress.
 
 [Anima Shard Harvesting](https://user-images.githubusercontent.com/65477584/113082333-21e5ef00-918f-11eb-9384-adb66dccc042.mp4)
 
-[Essence Selection](https://user-images.githubusercontent.com/65477584/113083374-f401aa00-9190-11eb-9b07-fc779b6ea838.mp4)
+[Essence Selection](https://user-images.githubusercontent.com/65477584/113083890-e00a7800-9191-11eb-8fc1-d8914e1d138c.mp4)
 
 [Tower Building and Combat](https://user-images.githubusercontent.com/65477584/113080731-37a5e500-918c-11eb-9bb2-33f715c02aff.mp4)
 
