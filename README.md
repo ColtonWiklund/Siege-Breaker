@@ -30,3 +30,9 @@ There are several items players must acquire to progress.
 * **Orb of Scrying:** Reveals 3 random unlearned upgrades to player. The player selects 1 to learn.
 * **Anima Shard:** Provides a random amount of Anima when harvested. Anima is used to augment the Nexus.
 * **Minerals:** There are 4 minerals: Green, Blue, Purple, and Gold. They are used to strengthen upgrades and are mined by towers at the end of each wave.
+
+## Captures
+Tower building and combat
+
+https://user-images.githubusercontent.com/65477584/113078888-daf4fb00-9188-11eb-9e37-e0e66f909e75.mp4
+
