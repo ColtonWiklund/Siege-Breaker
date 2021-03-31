@@ -34,5 +34,4 @@ There are several items players must acquire to progress.
 ## Captures
 Tower building and combat
 
-https://user-images.githubusercontent.com/65477584/113078888-daf4fb00-9188-11eb-9e37-e0e66f909e75.mp4
-
+[Combat](https://user-images.githubusercontent.com/65477584/113080731-37a5e500-918c-11eb-9bb2-33f715c02aff.mp4)
